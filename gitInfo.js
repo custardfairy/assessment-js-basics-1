@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = (`Git is an open source code management and version control system used for tracking changes to files.`)
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = (`Github is cloud-based hosting for software development and version control utilizing Git`)
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = (`The command 'git init' creates a new Git repository.`)
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = (`The 'git clone' command creates an exact copy of an existing repository.`)
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = (`This command shows the current status of the working directly and staging area, tracking any changes made prior to a commit.`)
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = (`The 'git add' command adds any changes to the working directory to the staging area prior to a commit.`)
+let gitAddCode = (`git add .`)
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +65,8 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition = (`The git commit command is used to commit changes made to the working directory or file.`)
+let gitCommitCode = (git commit -m "initial commit")
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +75,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = (`The "git push" command uploads local repository files to a remote repository.`)
